@@ -1,0 +1,20 @@
+  img {
+        border-radius: 50px;
+      }
+      .titl {
+        text-align:center;
+      }
+      .button-footer:hover {
+        cursor:pointer;
+        opacity: 0.5;
+        padding-left: 5px;
+        padding-right: 5px;
+
+      }
+      .button-footer:active {
+        opacity: 0.2;
+
+      }
+      button {
+        cursor: pointer;
+      }
